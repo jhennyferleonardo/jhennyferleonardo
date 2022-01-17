@@ -5,7 +5,7 @@
  
    html {
        font-family: 'Crimson Pro', serif;
-       background-color: #C1272D;
+       background-color: #0dabb6d9;
        /* text-align: left; */
        font-weight: bold;
        /* text-decoration: underline; */
@@ -13,9 +13,11 @@
      
 
        }
-       img {
+        
+        .jhenny {
            display: block;
            margin: 0 auto;
+           width: 50%;
        }
         body {                 
             width: 600px;
